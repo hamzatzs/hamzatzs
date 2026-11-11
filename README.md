@@ -8,7 +8,6 @@ I'm interested in robotics, robot learning and physical AI, and in bringing auto
 
 - **AUTODIDACT** · Siemens Healthineers Robotics & AI Hackathon 2026 (semi-finalist). A self-improving learning loop for a simulated cath-lab robot in MuJoCo: it finds its own failure cases, generates targeted demonstrations, retrains, and only accepts an update if a statistical gate confirms it is better. [Case study →](https://hamzatzs.github.io/hamza-portfolio/projects/autodidact.html)
 - **Bat-inspired micro UAV** · Final-year project. 4-DOF morphing wing mechanism, CFD/FEA in ANSYS and COMSOL, wing dynamics in MSC Adams, Arduino/Raspberry Pi control. [Case study →](https://hamzatzs.github.io/hamza-portfolio/projects/bat-uav.html)
-- **[Job-Alert](https://github.com/hamzatzs/Job-Alert)** · Python scraper that runs on GitHub Actions and emails me new working-student listings in Bavaria.
 
 ### Tools
 
