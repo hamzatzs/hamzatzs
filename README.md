@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Hamza
 
-<!--
-**hamzatzs/hamzatzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. student in **Autonomy Technologies** at FAU Erlangen-Nürnberg, with a mechanical engineering background and 1.5+ years of production planning in the automotive industry (Changan, Pakistan).
 
-Here are some ideas to get you started:
+I'm interested in robotics, robot learning and physical AI, and in bringing autonomy into real production systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Highlights
+
+- **AUTODIDACT** · Siemens Healthineers Robotics & AI Hackathon 2026 (semi-finalist). A self-improving learning loop for a simulated cath-lab robot in MuJoCo: it finds its own failure cases, generates targeted demonstrations, retrains, and only accepts an update if a statistical gate confirms it is better. [Case study →](https://hamzatzs.github.io/hamza-portfolio/projects/autodidact.html)
+- **Bat-inspired micro UAV** · Final-year project. 4-DOF morphing wing mechanism, CFD/FEA in ANSYS and COMSOL, wing dynamics in MSC Adams, Arduino/Raspberry Pi control. [Case study →](https://hamzatzs.github.io/hamza-portfolio/projects/bat-uav.html)
+- **[Job-Alert](https://github.com/hamzatzs/Job-Alert)** · Python scraper that runs on GitHub Actions and emails me new working-student listings in Bavaria.
+
+### Tools
+
+Python (pandas, NumPy) · MATLAB · C++ · SQL · MuJoCo · SolidWorks · ANSYS · COMSOL · SAP · Oracle SCM · Power BI
+
+### Find me
+
+[Portfolio](https://hamzatzs.github.io/hamza-portfolio/) · [LinkedIn](https://www.linkedin.com/in/hamza-t-795a20218)
+
+Open to Werkstudent roles in robotics, Physical AI, or production/operations analytics in the Erlangen–Nürnberg area.
